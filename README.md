@@ -1,7 +1,7 @@
 # Study Time!
 
 First game I'm currently creating using Unity. I'm not very familiar with C# or Unity, so this is a huge learning process for me!
-Not completed yet, just something I'm working on when I have free time.
+Not completed yet and it's VERY buggy, just something I'm working on when I have free time.
 
 ## Description
 
