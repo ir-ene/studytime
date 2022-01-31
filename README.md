@@ -6,7 +6,8 @@ About 50% complete and it's VERY buggy, just something I'm working on when I hav
 ## Description
 
 Study Time! is a minimalist game/study tool set in a cute bedroom where you can:
-* Set Timers
+* Set timers
+* Create sticky notes
 * Listen to lo-fi music with built-in music player
 * Use hard-earned study sessions to redeem for cool furniture for your room
 
